@@ -1,13 +1,13 @@
 {
-	"Скилы": [
-		"Тестирование ПО",
+	"skills": [
+		"testing_software",
 		"GitHub",
 		"JSON",
 		"Postman",
-		"Мобильное тестирование",
-		"Терминал линукс",
-		"Основы SQL",
-		"Нагрузочное тестирование в Jmeter",
-		"Основы Python"
+		"mobile_testing",
+		"terminal_linux",
+		"SQL",
+		"load_testing_in_jmeter",
+		"Python"
 	]
 }

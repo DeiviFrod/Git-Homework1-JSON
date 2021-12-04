@@ -1,14 +1,14 @@
 {
-  "Описание": "Не отправляется письмо на почту с русскими буквами в имэйле",
-  "Серьёзность": "Критическая",
-  "Шаги воспроизведения": [
-    "перейти на сайт почты",
-    "зайти в личный кабинет (данные для входа_ссылка на базу)",
-    "нажать отправить письмо",
-    "в поле (кому) ввести имэйл (пример@пример.ру)",
-    "в поле текст написать любой текст",
-    "нажать отправить" 
+  "summary": "a_letter_is_not_sent_to_the_post_office_with_russian_letters_in_the_email",
+  "severity": "critical",
+  "steps_to_reproduc": [
+    "go_to_the_mail_site",
+    "go_to_your_personal_account(login_data_link_to_the_base)",
+    "press_the_send_email_button",
+    "in_the_field(to_whom)enter_and_email(example@example.ru)",
+    "write_any_text_in_the_text_field",
+    "prees_the_send_button" 
     ],
-  "Ожидаемый результат": "Письмо отправлено",
-  "Фактический результат": "Кнопка отправить неактивна"
+  "expected_result": "email_sent",
+  "actual_result": "the_submit_button_is_inactive"
 }

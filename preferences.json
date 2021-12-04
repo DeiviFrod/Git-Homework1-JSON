@@ -1,11 +1,12 @@
 {
-	"Любимый фильм": [
-		"Серия Властелин колец",
-		"Серия Темный рыцарь",
-		"Район номер 9"
+	"favorite_movie": [
+		"lord_of_the_rings_series",
+		"dark_night_series",
+		"distric_9"
 	],
-	"Любимый сериал": "Спартак",
-	"Любимая еда": "Картошка в любом виде",
-	"Любимое время года": "лето",
-	"Страна которую хотел бы посетить": "США"
+	"favorite_serial": "spartacus",
+	"favorite_eat": "potate",
+	"favorite_season": "summer",
+	"country_i_would_like_to_visit": "usa"
+	
 }

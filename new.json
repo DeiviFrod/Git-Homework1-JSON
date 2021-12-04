@@ -1,10 +1,10 @@
 {
-	"ФИО": "Крукович Владислав Игревич",
-	"Возраст": "25 лет",
-	"Кол-во домашних животных": {
-		"кошка Тесла": "5 лет",
-		"кот Фикус": "2 года"
+	"full_name": "krukovich_vladislav_igorevich",
+	"age": "25_years",
+	"number_of_pets": {
+		"cat_tesla": "5_years",
+		"cat_fikys": "2_years"
 	},
-	"Будущая желаемая зарплата": "1000000 евро"
+	"future_desired_salary": "1000000_dollars"
 }
 
