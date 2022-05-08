@@ -1,14 +1,14 @@
 {
-  "summary": "a_letter_is_not_sent_to_the_post_office_with_russian_letters_in_the_email",
+  "summary": "a letter is not sent to the post office with russian letters in the email",
   "severity": "critical",
-  "steps_to_reproduc": [
-    "go_to_the_mail_site",
-    "go_to_your_personal_account(login_data_link_to_the_base)",
-    "press_the_send_email_button",
-    "in_the_field(to_whom)enter_and_email(example@example.ru)",
-    "write_any_text_in_the_text_field",
-    "prees_the_send_button" 
+  "steps to reproduc": [
+    "go to the mail site",
+    "go to your personal account(login data link to the base)",
+    "press the send email button",
+    "in the field(to whom)enter and email(example@example.ru)",
+    "write any text in the text field",
+    "prees the send button" 
     ],
-  "expected_result": "email_sent",
-  "actual_result": "the_submit_button_is_inactive"
+  "expected result": "email sent",
+  "actual result": "the submit button is inactive"
 }
